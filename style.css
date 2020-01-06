@@ -1,0 +1,17 @@
+.top-container {
+    margin-top: 20px;
+    text-align: right;
+}
+
+.img-container {
+    margin-top: 150px;
+    text-align: center;
+}
+
+.img-div {
+    display: inline-block;
+}
+
+.form-container {
+    text-align: center;
+}
