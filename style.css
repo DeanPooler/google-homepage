@@ -1,5 +1,7 @@
 body {
     background-color: #ffffff;
+    font-family: arial,sans-serif;
+    font-size: 12px;
 }
 
 ul {
@@ -56,8 +58,8 @@ li img {
 
 .search {
     border-radius: 25px;
-    border: 1px solid black;
-    margin-top: 50px;
+    border: 1px solid #dfe1e5;
+    margin-top: 35px;
     margin-bottom: 25px;
     width: 450px;
     height: 35px;
@@ -73,4 +75,7 @@ li img {
     border-radius: 4px;
     background-color: #f4f4f4;
     margin: 10px;
+    height: 35px;
+    width: 125px;
+    border: none;
 }
